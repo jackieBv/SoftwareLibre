@@ -1,2 +1,2 @@
-# SoftwareLibre
+# SOF
 Esta es una prueba utilizando el comando git clone para descargar un archivo completo...
